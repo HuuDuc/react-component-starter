@@ -1,7 +1,7 @@
 {
   "name": "react-component-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "React component starter (react, styled-component, parcel, jest)",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
@@ -21,7 +21,8 @@
   },
   "keywords": [
     "react",
-    "typescript"
+    "typescript",
+    "parcel"
   ],
   "author": "Stéphane Nguyen",
   "license": "MIT",
