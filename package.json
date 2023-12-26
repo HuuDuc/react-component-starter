@@ -24,7 +24,7 @@
     "typescript",
     "parcel"
   ],
-  "author": "Stéphane Nguyen",
+  "author": "Stéphane Nguyen <s.nguyen@outlook.com (https://huuduc.github.io/)>",
   "license": "MIT",
   "devDependencies": {
     "@testing-library/react": "^14.1.2",
